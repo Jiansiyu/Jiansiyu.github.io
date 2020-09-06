@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Siyu"
-  avatar           : "profile.png"
+  avatar           : "images/profile/profileImage.jpg"
   bio              : "Go Hoos"
   location         : "Virginia, US"
   employer         :
