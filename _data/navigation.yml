@@ -14,7 +14,10 @@ main:
     url: /talks/    
 
   - title: "Recipe"
-    url: /teaching/    
+    url: /Recipe/ 
+    
+  - title: "Teaching"
+    url: /teaching/ 
     
   - title: "Portfolio"
     url: /portfolio/
