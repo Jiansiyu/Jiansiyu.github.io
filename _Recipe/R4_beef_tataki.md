@@ -7,6 +7,7 @@ ___
 
 
 ## Beef tataki Recipe
+
 | Items |  Link |
 |-----|-----|
 |New York Strip steak| |
