@@ -1,6 +1,6 @@
 ---
 title: "spicy salmon hand roll"
-excerpt: "Japanese Cheesecake resipe <br/><img src='/images/Recipe/Spicy-Salmon-Hand-Roll-520x322.png'>"
+excerpt: "Salmon sushi roll <br/><img src='/images/Recipe/Spicy-Salmon-Hand-Roll-520x322.png'>"
 collection: Recipe
 ---
 ___
