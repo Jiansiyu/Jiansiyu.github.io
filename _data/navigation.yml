@@ -15,7 +15,9 @@ main:
 
   - title: "Recipe"
     url: /Recipe/ 
-    
+
+  - title: "Talks"
+    url: /talks/  
   # - title: "Teaching"
   #   url: /teaching/ 
     

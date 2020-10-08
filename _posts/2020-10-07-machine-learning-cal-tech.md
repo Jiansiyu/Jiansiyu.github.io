@@ -6,6 +6,7 @@ tags:
   - Machine Learning
   - AI
 ---
+Caltech Machine Learning Class
 
 ![](https://work.caltech.edu/images1/banner.png)
 
