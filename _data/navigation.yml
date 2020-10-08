@@ -12,14 +12,15 @@ main:
 
   # - title: "Talks"
   #   url: /talks/    
-
+  - title: "Machine Learning"
+    url: /machinelearning/ 
+    
   - title: "Recipe"
     url: /Recipe/ 
 
   - title: "Talks"
     url: /talks/  
-  - title: "Machine Learning"
-    url: /machinelearning/ 
+
     
   # - title: "Portfolio"
   #   url: /portfolio/
