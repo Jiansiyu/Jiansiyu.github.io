@@ -11,7 +11,7 @@ title                    : "Siyu's Elog"
 title_separator          : "-"
 name                     : &name "Siyu's Elog"
 description              : &description "personal description"
-url                      : http://localhost:4000 #https://siyu.bakingrpi.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://siyu.bakingrpi.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # url                      : http://localhost:4000
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jiansiyu/jiansiyu.github.io"
