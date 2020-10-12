@@ -1,0 +1,15 @@
+{% include base_path %}
+
+{% if include.id %}
+  {% assign feature_row = page.[include.id] %}
+{% else %}
+  {% assign feature_row = page.imagesslideshow %}
+{% endif %}
+
+<div class="slideshow_container">
+
+    {% for slide in imagesslideshow%}
+
+
+
+</div>
