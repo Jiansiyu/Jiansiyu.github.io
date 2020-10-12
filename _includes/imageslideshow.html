@@ -82,7 +82,8 @@
 
 <div class="slideshow_container">
 {% for f in  imagesslideshow %}
-    <div class="mySlides fade">
+    <!-- <div class="mySlides fade"> -->
+      <div>
         <img src=
         {% if f.slide_image contains "://" %}
         "{{ f.slide_image }}"
@@ -92,7 +93,6 @@
          style="width: 100%">
          
     </div>
-    <div>{{ f.slide_image | prepend: "/images/" | prepend: base_path }}</div>
 {% endfor %}
 </div>
 <div style="text-align: center">
@@ -104,7 +104,6 @@
 <script>
 var slideIndex = 0;
 showSlides();
-
 function showSlides() {
   var i;
   var slides = document.getElementsByClassName("mySlides");

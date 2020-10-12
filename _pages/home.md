@@ -37,13 +37,13 @@ feature_row:
     btn_label: "Learn more"
 
 imagesslideshow:
-  - slide_image: home/unsplash-image-1_1500x500.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
+  # - slide_image: home/unsplash-image-1_1500x500.png
+  #   alt: "100% free"
+  #   title: "100% free"
+  #   excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
+  #   url: "/docs/license/"
+  #   btn_class: "btn--primary"
+  #   btn_label: "Learn more"
 
   - slide_image: home/uva_long.jpg
     alt: "100% free"
