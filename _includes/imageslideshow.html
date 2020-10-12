@@ -90,9 +90,9 @@
         "{{ f.slide_image | prepend: "/images/" | prepend: base_path }}"
         {% endif %}
          style="width: 100%">
-         <div>{{ f.slide_image | prepend: "/images/" | prepend: base_path }}</div>
+         
     </div>
-
+    <div>{{ f.slide_image | prepend: "/images/" | prepend: base_path }}</div>
 {% endfor %}
 </div>
 <div style="text-align: center">
