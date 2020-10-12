@@ -2,44 +2,60 @@
 layout: splash
 permalink: /
 hidden: true
-header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
-  actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
+# header:
+#   overlay_color: "#5e616c"
+#   overlay_image: home/img_mountains_wide.jpg
+#   actions:
+#     - label: "<i class='fas fa-download'></i> Install now"
+#       url: "/docs/quick-start-guide/"
 # excerpt: >
 #   A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
 #   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.20.2">Latest release v4.20.2</a></small>
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+  - image_path: home/parity_500x300.png
+    alt: "research"
+    title: "Research"
+    excerpt: "My research is mainly focus on the Lead(Pb) Radius Experiment(PRex). Beside that I am also working on the SBS GEM tracker.."
+    url: "/Research/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
+  
+  - image_path: home/RG-Machine-Blog_0.png
+    alt: "MachineLearning"
+    title: "Machine Learning"
+    excerpt: "My notes about machine learning project and some other topics. Machine Learing! Machine Learing!"
+    url: "/machinelearing/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
+
+  - image_path: home/learning_500x300.jpg
+    alt: "Notes"
+    title: "Learning Notes"
+    excerpt: "MY notes about Machine Learning, Docker, SQL, bash, Linux system, and also some other interesting topics"
+    url: "/year-archive/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+
+imagesslideshow:
+  - slide_image: home/unsplash-image-1_1500x500.png
     alt: "100% free"
     title: "100% free"
     excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
     url: "/docs/license/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
-  # - image_path: /assets/images/mm-free-feature.png
-  #   alt: "100% free"
-  #   title: "100% free"
-  #   excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-  #   url: "/docs/license/"
-  #   btn_class: "btn--primary"
-  #   btn_label: "Learn more"      
----
+    btn_label: "Learn more"
 
+  - slide_image: home/uva_long.jpg
+    alt: "100% free"
+    title: "100% free"
+    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
+    url: "/docs/license/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  
+
+---
+{% include imageslideshow.html %}
+
+---
 {% include feature_row %}
