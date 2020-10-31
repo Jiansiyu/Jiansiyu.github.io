@@ -1,7 +1,7 @@
 ---
 title: 'CS6161 Algorithm'
 date: 2020-10-08
-permalink: /posts/
+permalink: /posts/20201008cs6161algorithm_pos1/
 tags:
   - Algorithm
   - CS 6161
