@@ -54,6 +54,18 @@ imagesslideshow:
     btn_label: "Learn more"
   
 
+leetcode_feature_row:
+  - icon_image: "leetcode/download.png"
+    user: "小胖喵的leetcode"
+    chaturl: "https://docs.google.com/spreadsheets/d/e/2PACX-1vTXt-UsTz6zxIl1C0frYfkBU9S56_29nnRFUDorv0gZ0WLZ3wHzUGoNIoPZdxewxaKDXGeBwLJgADj1/pubchart?oid=198820844&amp;format=interactive"
+    statisticurl: "https://docs.google.com/spreadsheets/d/e/2PACX-1vTXt-UsTz6zxIl1C0frYfkBU9S56_29nnRFUDorv0gZ0WLZ3wHzUGoNIoPZdxewxaKDXGeBwLJgADj1/pubchart?oid=1193338765&amp;format=interactive"
+
+leetcode_feature_row:
+  - icon_image: "leetcode/download.png"
+    user: "大胖喵的leetcode"
+    chaturl: "https://docs.google.com/spreadsheets/d/e/2PACX-1vTXt-UsTz6zxIl1C0frYfkBU9S56_29nnRFUDorv0gZ0WLZ3wHzUGoNIoPZdxewxaKDXGeBwLJgADj1/pubchart?oid=198820844&amp;format=interactive"
+    statisticurl: "https://docs.google.com/spreadsheets/d/e/2PACX-1vTXt-UsTz6zxIl1C0frYfkBU9S56_29nnRFUDorv0gZ0WLZ3wHzUGoNIoPZdxewxaKDXGeBwLJgADj1/pubchart?oid=1193338765&amp;format=interactive"
+
 ---
 {% include imageslideshow.html %}
 
@@ -61,5 +73,9 @@ imagesslideshow:
 {% include feature_row %}
 
 ---
+{% include leetcodeProgress.html %}
 
-<iframe width="834" height="350" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTXt-UsTz6zxIl1C0frYfkBU9S56_29nnRFUDorv0gZ0WLZ3wHzUGoNIoPZdxewxaKDXGeBwLJgADj1/pubchart?oid=198820844&amp;format=interactive"></iframe>
+---
+
+{% include footer.html %}
+<!-- <iframe width="834" height="350" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTXt-UsTz6zxIl1C0frYfkBU9S56_29nnRFUDorv0gZ0WLZ3wHzUGoNIoPZdxewxaKDXGeBwLJgADj1/pubchart?oid=198820844&amp;format=interactive"></iframe> -->
