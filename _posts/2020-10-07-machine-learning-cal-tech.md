@@ -27,11 +27,14 @@ Home Page
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!-- This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
 
-Headings are cool
-======
 
-You can have many headings
-======
+## Introduction to Information Retrieval
+[Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/html/htmledition/irbook.html)
+[Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/)
 
-Aren't headings cool?
------- -->
+## Machine Learning 
+[机器学习周志华](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%91%A8%E5%BF%97%E5%8D%8E.pdf)
+
+### tiny url 
+### design an instigram 
+### object oritened code 
